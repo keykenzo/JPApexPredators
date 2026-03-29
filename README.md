@@ -18,7 +18,7 @@ Here you can see the app in action:
 <p align="left">
   <img src="JPApexPredators/Screenshots/mappredator.png" width="200">
   <img src="JPApexPredators/Screenshots/mappredator2.png" width="200">
-  <img src="JPApexPredators/Screenshots/mappredator3.png" width="200">
+  <img src="JPApexPredators/Screenshots/mapredator3.png" width="200">
   <img src="JPApexPredators/Screenshots/mappredator4.png" width="200">
   <img src="JPApexPredators/Screenshots/mappredator5.png" width="200">
   <img src="JPApexPredators/Screenshots/stickers1.png" width="200">
